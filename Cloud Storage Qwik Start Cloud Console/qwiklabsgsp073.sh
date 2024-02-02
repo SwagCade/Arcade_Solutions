@@ -2,8 +2,6 @@
 
 
 
-
-
 gcloud config set compute/region $REGION
 
 
