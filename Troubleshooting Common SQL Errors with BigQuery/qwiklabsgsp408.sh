@@ -67,7 +67,7 @@ GROUP BY hits_page_pageTitle
 
 echo "${GREEN}${BOLD}
 
-Task 3 Completed
+Task 3 Completed!!!
 
 ${RESET}"
 
@@ -131,7 +131,7 @@ ORDER BY avg_products_ordered DESC
 
 echo "${GREEN}${BOLD}
 
-Task 4 Completed
+Task 4 Completed!!!
 
 ${RESET}"
 
@@ -153,7 +153,7 @@ LIMIT 5
 
 echo "${GREEN}${BOLD}
 
-Task 5 Completed
+Task 5 Completed!!!
 
 Lab Completed Successfully!!!
 
@@ -164,7 +164,7 @@ read -p "${BOLD}${RED}Subscribe to Swagcade, Will you? [y/n] : ${RESET}" CONSENT
 
 while [ "$CONSENT_REMOVE" != 'y' ]; do
   sleep 10
-  read -p "${BOLD}${YELLOW}Do Subscribe to SwagCade! [y/n] : ${RESET}" CONSENT_REMOVE
+  read -p "${BOLD}${YELLOW}Do Subscribe to SwagCade! Will you? [y/n] : ${RESET}" CONSENT_REMOVE
 done
 
 echo "${BLUE}${BOLD}Thanks For Subscribing :)${RESET}"
