@@ -2,6 +2,7 @@
 
 ## Task 1
 ### Search for `Buckets` in the Google Cloud Console
+### Then click on Create
 ### Now in the Name field enter your Project-ID and click on Create
 ### Click Confirm if you see any prompt
 ### Now you can check your progress for your 1st task
